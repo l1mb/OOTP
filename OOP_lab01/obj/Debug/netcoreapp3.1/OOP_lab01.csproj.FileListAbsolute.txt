@@ -1,0 +1,11 @@
+X:\programming\oop\OOP_lab01\OOP_lab01\bin\Debug\netcoreapp3.1\OOP_lab01.exe
+X:\programming\oop\OOP_lab01\OOP_lab01\bin\Debug\netcoreapp3.1\OOP_lab01.deps.json
+X:\programming\oop\OOP_lab01\OOP_lab01\bin\Debug\netcoreapp3.1\OOP_lab01.runtimeconfig.json
+X:\programming\oop\OOP_lab01\OOP_lab01\bin\Debug\netcoreapp3.1\OOP_lab01.runtimeconfig.dev.json
+X:\programming\oop\OOP_lab01\OOP_lab01\bin\Debug\netcoreapp3.1\OOP_lab01.dll
+X:\programming\oop\OOP_lab01\OOP_lab01\bin\Debug\netcoreapp3.1\OOP_lab01.pdb
+X:\programming\oop\OOP_lab01\OOP_lab01\obj\Debug\netcoreapp3.1\OOP_lab01.csprojAssemblyReference.cache
+X:\programming\oop\OOP_lab01\OOP_lab01\obj\Debug\netcoreapp3.1\OOP_lab01.AssemblyInfoInputs.cache
+X:\programming\oop\OOP_lab01\OOP_lab01\obj\Debug\netcoreapp3.1\OOP_lab01.AssemblyInfo.cs
+X:\programming\oop\OOP_lab01\OOP_lab01\obj\Debug\netcoreapp3.1\OOP_lab01.dll
+X:\programming\oop\OOP_lab01\OOP_lab01\obj\Debug\netcoreapp3.1\OOP_lab01.pdb
